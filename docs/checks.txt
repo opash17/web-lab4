@@ -1,0 +1,7 @@
+OK / 200
+OK /BooksList?lang=ru 200
+OK /BooksList?lang=en 200
+OK /BooksList 200
+OK /BooksList?lang=de 406
+OK /BooksList?lang= 200
+6 checks passed
